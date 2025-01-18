@@ -13,3 +13,21 @@ This project implements a sentiment analysis model using a Long Short-Term Memor
 1. Clone the repository:
    ```bash
    git clone https://github.com/shabeer-10/Sentiment-Analysis-IMDB.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd Avatar_Pose_Tracker
+   
+3. Install the required packages:
+   ```bash
+   pip install opencv-python mediapipe numpy
+
+## Usage
+
+Run the script:
+ ```bash
+python pose_avatar.py
+
+
+
+
