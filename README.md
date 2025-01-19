@@ -40,10 +40,10 @@ python SentimentAnalysis.py
 
 ## Model Training
 
-• The model is trained on the IMDB dataset, with 20% of training data used for validation.
-• Training details:
-   • Epochs: 5
-   • Batch size: 512
+- The model is trained on the IMDB dataset, with 20% of training data used for validation.
+- Training details:
+   - Epochs: 5
+   - Batch size: 512
 
 ## Example
 
@@ -54,7 +54,7 @@ Sentiment: positive (Confidence: 0.95)
 
 ## Results
 
-• Test Accuracy: ~85% (on IMDB test set)
+- Test Accuracy: ~85% (on IMDB test set)
 
 ## Project Structure
 
